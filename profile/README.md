@@ -21,7 +21,7 @@
 - 👩‍💻 We are the Developer Team of Amanda.
 - 🍿 Fun facts - We are 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 studying on Grade 10.
 - 🔭 We're 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 Of [Amanda](https://t.me/TheAmandabot)**
-- 💬 𝙰𝚜𝚔 Us 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/TeamAmanda/.github/issues) ! We are 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 💬 𝙰𝚜𝚔 Us 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [Send Feedback](https://support.github.com/contact/feedback?category=profile&subject=Org+Profile+README) ! We are 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **Them/They**
 - 📫 How to reach us: Telegram - [@trtechguide](https://t.me/trtechguide)
 
