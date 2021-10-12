@@ -14,8 +14,6 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/TeamAmanda/.github/blob/main/PNG/TeamAmanda.png">
 </a>
 
-<!--
-
 **Who we are?**
 
 🙋‍♀️ We are intereted in Bot Development & Ai related projects.
@@ -26,7 +24,6 @@
 💬 𝙰𝚜𝚔 Us 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/TeamAmanda/.github/issues) ! We are 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **Them/They**
 📫 How to reach us: Telegram - [@trtechguide](https://t.me/trtechguide)
--->
 
 
 <br/>
