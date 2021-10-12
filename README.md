@@ -1,23 +1,23 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/TharukRenuja/TharukRenuja/blob/main/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://github.com/TeamAmanda/.github/blob/main/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <a target="_blank">
-    <img src="https://github.com/TharukRenuja/TharukRenuja/blob/main/GIF/Hi.gif" width="40px" />
+    <img src="https://github.com/TeamAmanda/.github/blob/main/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
 
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/TeamAmanda.png">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/TeamAmanda/.github/blob/main/PNG/TeamAmanda.png">
 </a>
 
 - 👀 We're interested in BOT DEVELOPING
 - 💞 We're looking to collaborate on ...
 - 🔭 We're 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 Of [Amanda](https://t.me/TheAmandabot)**
-- 💬 𝙰𝚜𝚔 Us 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/TeamAmanda/TeamAmanda/issues) ! We are 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 💬 𝙰𝚜𝚔 Us 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/TeamAmanda/.github/issues) ! We are 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **Them/They**
 - 📫 How to reach us: Telegram - [@trtechguide](https://t.me/trtechguide)
 
@@ -33,19 +33,7 @@
 
 #
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=TeamAmanda&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/TeamAmanda)
-
-<p align="center">
-  <a>
-    <img height="150" width="175" src="https://github.com/TeamAmanda/TeamAmanda/blob/main/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TeamAmanda&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/TeamAmanda/TeamAmanda/blob/main/PNG/right.png">
-  </a>
-</p>
-
-#
-
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/TeamAmanda/TeamAmanda/blob/main/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/TeamAmanda/.github/blob/main/GIF/github.gif"></a>
 <br/>
 
 **Social Medias & Followers**
@@ -80,31 +68,3 @@
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 
 <br/>
-
-#
-
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br>
-
-<p align="center">
-  <a href="https://github.com/TeamAmanda">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TeamAmanda&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/TeamAmanda">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamAmanda&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-</p>
-</details>
-<br>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=TeamAmanda&theme=react-dark&hide_border=true&area=true)
-<br/>
-
-#
-
-<a target="_blank">
-  <img align="right" height="330px" width="500px" 
