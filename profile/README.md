@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="PNG" src="https://github.com/TeamAmanda/.github/blob/main/PNG/TeamAmanda.png">
+  <img align="right" height="500" width="500" alt="PNG" src="https://github.com/TeamAmanda/.github/blob/main/PNG/TeamAmanda.png">
 </a>
 
 **Who we are?**
