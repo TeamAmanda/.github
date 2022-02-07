@@ -24,13 +24,6 @@
 <br/>
 <br/>
 
-
-<p align="center">
-  <img src="https://gpvc.arturio.dev/TeamAmanda" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-<!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=TeamAmanda&style=flat&color=brightgreen"> •    -->
-  <img src="https://img.shields.io/github/stars/TeamAmanda?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
-
 #
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/TeamAmanda/.github/blob/main/GIF/github.gif"></a>
